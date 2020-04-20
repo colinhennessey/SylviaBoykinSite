@@ -152,5 +152,6 @@ header{
 @media (max-width: 1100px){
   .hasPictures p{
     margin: 2% 10% 2% 10%;
+    text-align: left;
   }
 }
