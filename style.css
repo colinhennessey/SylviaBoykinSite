@@ -3,6 +3,9 @@
   .images{
     visibility: hidden;
   }
+  .images img{
+    visibility: hidden;
+  }
 }
 *{
   box-sizing: border-box;
