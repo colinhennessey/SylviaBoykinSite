@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-@media (max-width: 700px){
+@media (max-width: 1000px){
   .images{
-    visibility: hidden;
-  }
-  .images img{
     visibility: hidden;
   }
 }
