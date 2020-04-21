@@ -30,10 +30,10 @@
   margin: 5%;
 }
 .images img{
-  margin: 0px 10%;
+  margin: 0em 5% ;
   float: right;
   clear: both;
-  max-width: 25%;
+  max-width: 40%;
   height: auto;
   
 }
@@ -153,5 +153,18 @@ header{
   .hasPictures p{
     margin: 2% 10% 2% 10%;
     text-align: left;
+  }
+  .hasPictures h1{
+    font-size: 24px;
+  }
+
+}
+
+@media (max-width: 1450px){
+  .pageTitle{
+    font-size: 20px;
+  }
+  .navLinks li{
+    padding: 10px 15px;
   }
 }
