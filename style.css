@@ -87,6 +87,10 @@ header{
 .navLinks li{
   font-size: 32px;
   display: inline-block;
+  width: 10%;
+  line-height: .75;
+  text-align: center;
+  vertical-align: text-top;
   float: none;
   padding: 10px 20px;
   background-color: #24252a;
@@ -146,6 +150,16 @@ header{
     color: black;
     text-decoration: none;
     line-height: 1.75;
+}
+.FamilyPage{
+  margin: 10%;
+  align-items: center;
+}
+.FamilyPage img{
+  margin: 0% 1%;
+  max-width: 45%;
+  height: auto;
+  display: inline-block;
 }
 
 
