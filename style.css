@@ -71,10 +71,9 @@ li, a{
 
 }
 header{
-  display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 80px, 10%;
+  /* padding: 80px, 10%; */
   background-color: #24252a;
 }
 
@@ -82,6 +81,8 @@ header{
   list-style: none;
   background-color: #24252a;
   justify-content: center;
+  display: flex;
+  padding: .5%
 
 }
 .navLinks li{
